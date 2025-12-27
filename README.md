@@ -3,7 +3,7 @@ A beginner STM32 project to learn interrupts, UART communication, and non-blocki
 
 Learned:
 1. Blocking and non-blocking code
-2. Using USART RX interrupts and TX
+2. Using UART RX interrupts and TX
 3. Pausing execution safely
 4. Abstracting HAL functions using OOP
 5. Executing code in CPP instead of C
