@@ -11,5 +11,8 @@ Learned:
 
 How to build/run:
 1. Press the "Play" button on the top bar in STM32CubeIDE, which allows the code to be built and executed on the STM32 development board.
+2. Press SWITCH for Animation 1 and BUTTON for Animation 2
+3. Download CoolTerm (for MacOS) or equivalent
+4. Enter 'p' to pause the animation, and 'r' to resume the animation.
 
 
